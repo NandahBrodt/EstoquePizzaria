@@ -1,0 +1,8 @@
+C:\Users\nanda\Downloads\EstoquePizzaria-main\ControleDeEstoquePizzaria\obj\Debug\ControleDeEstoquePizzaria.csproj.AssemblyReference.cache
+C:\Users\nanda\Downloads\EstoquePizzaria-main\ControleDeEstoquePizzaria\obj\Debug\ControleDeEstoquePapelaria.Form1.resources
+C:\Users\nanda\Downloads\EstoquePizzaria-main\ControleDeEstoquePizzaria\obj\Debug\ControleDeEstoquePizzaria.csproj.GenerateResource.cache
+C:\Users\nanda\OneDrive\Área de Trabalho\ADS\!UNIVALI\!AULAS_2º SEMESTRE\3. HOW III\ControleDeEstoquePizzaria\obj\Debug\ControleDeEstoquePizzaria.csproj.AssemblyReference.cache
+C:\Users\nanda\OneDrive\Área de Trabalho\ADS\!UNIVALI\!AULAS_2º SEMESTRE\3. HOW III\ControleDeEstoquePizzaria\obj\Debug\ControleDeEstoquePapelaria.Form1.resources
+C:\Users\nanda\OneDrive\Área de Trabalho\ADS\!UNIVALI\!AULAS_2º SEMESTRE\3. HOW III\ControleDeEstoquePizzaria\obj\Debug\ControleDeEstoquePizzaria.csproj.GenerateResource.cache
+C:\Users\nanda\OneDrive\Área de Trabalho\ADS\!UNIVALI\!AULAS_2º SEMESTRE\3. HOW III\ControleDeEstoquePizzaria\obj\Debug\ControleDeEstoquePapelaria.Properties.Resources.resources
+C:\Users\nanda\OneDrive\Área de Trabalho\ADS\!UNIVALI\!AULAS_2º SEMESTRE\3. HOW III\ControleDeEstoquePizzaria\obj\Debug\ControleDeEstoquePizzaria.csproj.CoreCompileInputs.cache
